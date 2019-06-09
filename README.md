@@ -1,1 +1,1 @@
-# garantia_repositorio
+# store_tecno_repo
