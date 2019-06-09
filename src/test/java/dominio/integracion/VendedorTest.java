@@ -24,7 +24,7 @@ public class VendedorTest {
 
 	private static final String COMPUTADOR_LENOVO = "Computador Lenovo";
 	
-	private static final String CLIENTE_1 = "Marco Antonio López Gómez";
+	private static final String CLIENTE_1 = "Marco Antonio López Gomez";
 	
 	private static final String COMPUTADOR_ASUS = "Asus Viv0";
 	
